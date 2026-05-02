@@ -1,4 +1,4 @@
-# INFO 465 Final Tableau Dashboard
+# INFO 465 Final Tableau Dashboard - CLARITY 
 
 ## Project Overview
 
